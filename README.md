@@ -8,5 +8,5 @@
 #### Objetivos
 ##### Usar ML para:
 - [ ] Gerar uma música de um minuto com as combinações dos sons
-- [ ] Exibir um gráfico (pizza) com as bolinhas que gerou a música
+- [ ] Exibir um gráfico (pizza) com as bolinhas que geraram a música
 
